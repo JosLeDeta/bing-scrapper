@@ -1,12 +1,20 @@
 # Bing scrapper
 
-Scrapping in Bing using BeautiflSoap in Python.
+Scrapping in Bing using BeautifulSoap in Python.
 
 ## Usage
 #
-### Standalone
-``python main.py --help``
+Search results will be stored in JSON format in *json_files/* folder.
 
-### Docker
-``docker-compose up``
+
+### Standalone
+```bash
+python main.py
+```
+
+### Using Docker 
+
+```bash
+docker-compose up
+```
 

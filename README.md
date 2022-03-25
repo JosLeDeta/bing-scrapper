@@ -3,7 +3,6 @@
 Scrapping in Bing using BeautifulSoap in Python.
 
 ## Usage
-#
 Search results will be stored in JSON format in *json_files/* folder.
 
 

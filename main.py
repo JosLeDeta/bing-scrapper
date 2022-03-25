@@ -1,4 +1,4 @@
-from bing_utils import SimpleSearch, BingResult
+from bing_utils import SimpleSearch
 from multiprocessing import Process
 import json
 
